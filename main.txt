@@ -1,2 +1,3 @@
- This is first line of main file
-This is second line of collaborator-branch
+ This is first line of main file and added more words to make conflicts
+ This is second line text of collaborator-branch
+
